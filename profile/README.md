@@ -1,3 +1,3 @@
 - [Our Website](https://www.avency.de/?etcc_ori=Github)
 - [Contact us](https://www.avency.de/kontakt?etcc_ori=Github)
-- [Jobs - Join out team](https://www.avency.de/karriere?etcc_ori=Github)
+- [Jobs - Join our team](https://www.avency.de/karriere?etcc_ori=Github)
